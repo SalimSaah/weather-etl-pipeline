@@ -1,0 +1,15 @@
+# Python Files
+__pycache__/
+*.pyc
+
+# Local Airflow folders
+logs/
+plugins/
+config/
+airflow-webserver.pid
+standalone_admin_password.txt
+
+# Virtual environments
+venv/
+env/
+.env
