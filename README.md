@@ -51,10 +51,11 @@ Connect to the local database using DBeaver, pgAdmin, or any SQL client using th
 ## 📸 Visual Demonstration
 ![Airflow DAG](images/airflow_success.png)
 *Airflow Graph View: Successful execution of the full ETL pipeline.*
-\
-\
+
 ![Postgres Data](images/dbeaver_data.png)
-*Final database visualization using DBeaver.*
+\
+*Final database visualization using DBeaver.* 
+
 ## 🔮 Roadmap
 * Implement Data Quality Tests (Great Expectations or dbt tests).
 * Scale the pipeline to ingest data from multiple cities simultaneously.
