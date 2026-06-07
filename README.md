@@ -24,8 +24,8 @@ The repository follows software engineering best practices through a modular des
 ## 🚀 Local Setup & Execution
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/SalimSaah/weather-etl-pipeline.git
+cd weather-etl-pipeline
 ```
 ### 2. Spin up the target Database:
 ```bash
